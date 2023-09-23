@@ -4,7 +4,7 @@ A passionate FullStack Web-developer from India
 - 💬 Ask me about HTML, CSS, JavaScript, Front-end 
 - 🌱 I’m currently learning React , Backend and java
 - 📫 How to reach me mr.nagendrasing247@gmail.com 
-- contact with me 
+  
 
 <!---
 nagendra247/nagendra247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
