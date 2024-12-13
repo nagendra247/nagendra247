@@ -1,8 +1,8 @@
-A passionate FullStack Web-developer from India
+A passionate Mern FullStack Web-developer from India
 - 👋 Hi, I’m Nagendra singh
 - 🔭 I’m currently working on Farm.Rent
-- 💬 Ask me about HTML, CSS, JavaScript, Front-end 
-- 🌱 I’m currently learning React , Backend and java
+- 💬 Ask me about HTML, CSS, JavaScript, Front-end ,React.js
+- 🌱 I’m currently learning  Backend development
 - 📫 How to reach me mr.nagendrasing247@gmail.com 
   
 
