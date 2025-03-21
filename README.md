@@ -20,7 +20,7 @@ I am a passionate **MERN Stack Developer** with expertise in **React.js, Node.js
 
 ### 🛠 Tools & Other Skills  
 🔹 **Version Control:** Git, GitHub  
-🔹 **Platforms:** Netlify, Vercel, Heroku  
+🔹 **Platforms:** Netlify, Vercel 
 🔹 **UI/UX Design:** Wireframe Design, Responsive Web Design  
 
 ---
